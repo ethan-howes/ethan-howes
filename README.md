@@ -4,12 +4,12 @@
   </a>
 </p>
 
-### 🚀 About Me
+### About Me
 
-🔭 &nbsp;I'm currently working on **a distributed system for rockfall hazard mitigation**  
-⚡ &nbsp;Fun fact: **I found my proxmox server hardware on Facebook Marketplace while on vacation**
+- &nbsp;I'm currently working on **a distributed system for rockfall hazard mitigation**  
+- &nbsp;Fun fact: **I found my proxmox server hardware on Facebook Marketplace while on vacation**
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -25,18 +25,15 @@
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
 </p>
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ethan-howes06/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ethanhowes06@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=eahowes&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/eahowes">eahowes</a></i></p>
