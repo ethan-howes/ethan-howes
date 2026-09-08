@@ -9,7 +9,7 @@
 
 ### About Me
 
-- &nbsp;I'm currently working on **a distributed system for rockfall hazard mitigation**  
+- &nbsp;I'm currently working on **infrastructure solutions for distributed systems and AI/ML deployment**  
 - &nbsp;Fun fact: **I found my proxmox server hardware on Facebook Marketplace while on vacation**
 
 ### Tech Stack
